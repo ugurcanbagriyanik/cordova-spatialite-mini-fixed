@@ -1,0 +1,1 @@
+# cordova-spatialite-mini-fixed
